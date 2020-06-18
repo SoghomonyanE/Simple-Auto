@@ -1,0 +1,28 @@
+.navbar-brand img{
+    height: 35px;
+    width: 70px;
+}
+.carousel-inner .centered{
+    margin: 0 auto;
+    width: 40%;
+}
+.div-black{
+   text-align: center;
+   background-color: black;
+   padding-bottom: 20px;
+}
+.div-details{
+    color: goldenrod;
+    padding-bottom: 10px;
+}
+.row nav{
+    margin-bottom: 0px;
+}
+.div-menua a{
+    padding: 8px 15px;
+}
+/* .div-details button{
+    margin-bottom: 10px;
+} */
+
+
